@@ -11,12 +11,3 @@ CraSOS is a standalone device which can be fitted inside a car or on a helmet of
 
 ## * [CraSOS (Arduino Code)](../master/CraSOS (Arduino Code))
 After the collision or accident is detected, this code is used to generate a SOS message containing the **location of the accident** and **important medical details (like blood group)**, and send it nearby helpline numbers and emergency family contacts.
-
-
-## * [pics](../master/pics)
-Contains pictures of the hardware and our project that we worked upon. Few of them are here..... 
-
-
-<img src="../master/pics/pic4.jpeg" width="40%" alt="prototype">
-
-<img src="../master/pics/pic1.jpeg" width="40%" alt="helmet">
