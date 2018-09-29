@@ -1,0 +1,9 @@
+[Unit]
+Description=BLE Beacon
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/beacon_final.py
+
+[Install]
+WantedBy=multi-user.target
