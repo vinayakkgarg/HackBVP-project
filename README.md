@@ -15,5 +15,5 @@ After the collision or accident is detected, this code is used to generate a SOS
 ## * [PI3Beacon](../master/PI3Beacon)
 A BLE(Bluetooth Low Energy) Beacon device that sends a notification to all devices in close proximity to the trigger using Google Nearby service. This notification carries a link that can redirect the user to a website, as per need.
 
-## * [Android-App](../master/Android-App)
+## * [Android-App](../master/Android-app)
 Android app for emergency contacts which triggers the phone alarm of SOS contacts of the victim even when the phone is muted.
